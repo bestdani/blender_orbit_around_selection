@@ -1,5 +1,5 @@
 # Blender Orbit Around Selection
-Blender addon that gives quick access to this view setting
+Blender addon that gives quick access to this navigation setting
 
 ![](https://github.com/bestdani/blender_orbit_around_selection/blob/main/orbit%20around%20selection.jpg)
 
